@@ -2,3 +2,7 @@ _site
 node_modules/
 _posts
 _drafts
+assets
+_attachments
+_drafts
+_pages

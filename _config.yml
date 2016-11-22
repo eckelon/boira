@@ -1,13 +1,13 @@
 # Inicio
-name: Scalable
-description: Un blog sobre SVG · CSS3 · HTML5
+name: Refugio VirtuaMental de un Internauta
+description: Blog de Jesús Ángel Samitier sobre desarrollo, tecnología y opinión
 themeJekyll: Boira
 version: 2.0.0
 timezone: Europe/Madrid
 
 # Configuracion
-url: http://jorgeatgu.com/blog
-baseurl: /blog
+url: http://eckelon.net/blog
+baseurl:
 paginate: 5
 paginate_path: "page:num"
 highlighter: pygments
@@ -24,16 +24,13 @@ kramdown:
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+permalink: /:categories/:title.html
+#informatica-e-internet/how-to/como-desactivar-la-memoria-virtual-en-snow-leopard.html
+
 # Redes Sociales
-author: Jorge Aznar Tobajas
-twittername: jorgeATGU
-twitter: https://twitter.com/jorgeatgu
-CodePen: https://codepen.io/jorgeatgu
-GooglePlus: https://plus.google.com/+JorgeATGU/
-GitHub: https://github.com/jorgeatgu/
-Behance: https://www.behance.net/jorgeatgu
-Facebook: https://facebok.com/jorgeatgu
-Vimeo: https://vimeo.com/jorgeatgu
-dribbble: http://www.dribbble.com/jorgeATGU
+author: Jesús Ángel Samitier
+twittername: eckelon
+twitter: https://twitter.com/eckelon
+GitHub: https://github.com/eckelon/
 
 exclude: [ config.codekit, .gitignore, .sass-cache, .tweet-cache, node_modules, package.json, gulpfile.js, _drafts ]

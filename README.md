@@ -1,3 +1,3 @@
 # boira
 
-Jekyll Theme para mi [blog](http://jorgeatgu.com/blog/)
+Jekyll Theme para mi [blog](http://eckelon.net/blog/)
